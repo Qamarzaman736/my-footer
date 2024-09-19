@@ -2,25 +2,24 @@ import React from 'react'
 import Image from 'next/image'
 const page = () => {
   return (
-    <div><figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-    <Image className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/h.jpg" alt="" width="384" height="512"/>
+    <div><figure className="md:flex bg-yellow-100 circle-xl p-8 md:p-0 dark:bg-yellow-800">
+    <Image className="w-24 h-24 md:w-48 md:h-auto md:circle-none circle-full mx-auto" src="/c.jpg" alt="" width="384" height="512"/>
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-        My home is about 7marla and consist of 4 story.There are 6 rooms and 2 kichan in it.tThere is a Gov.t college in the front of my house.
+        contact number 0321863736 EMAIL qamarzaman123pt@gmail.com
         </p>
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
-          Home
+          Contact
         </div>
         <div className="text-slate-700 dark:text-slate-500">
-          City, RYK
-        </div>
+          whatsapp, +92 321 8637736
+        </div> 
       </figcaption>
     </div>
   </figure></div>
   )
 }
-
 export default page
