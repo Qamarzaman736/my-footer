@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-        House no.12,chak no 123p ,Rahim yar Khan,Zip code 64200,Punjab.
+        House no.12 chak no 123p Rahim yar Khan,Zip code 64200 Punjab.
         </p>
       </blockquote>
       <figcaption className="font-medium">

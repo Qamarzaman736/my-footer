@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-        Hi, I'm Qamar zaman, a Class 12th student at Khawaja RYKIBA College.I work as a freelancer, taking on various projects and tasks to gain new skills and experiences.
+        Hi I am Qamar zaman a Class 12th student at Khawaja RYKIBA College.I work as a freelancer taking on various projects and tasks to gain new skills and experiences.
         </p>
       </blockquote>
       <figcaption className="font-medium">
